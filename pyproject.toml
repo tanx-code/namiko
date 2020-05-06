@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "namiko"
+version = "0.1.0"
+description = "a event-loop based webserver"
+authors = ["Xiao Tan <tvytlx@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "3.8.2"
+click = "^7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.4.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
