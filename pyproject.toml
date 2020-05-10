@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "namiko"
 version = "0.1.0"
-description = "a event-loop based webserver"
+description = "An epoll I/O based webserver"
 authors = ["Xiao Tan <tvytlx@gmail.com>"]
 license = "MIT"
 
