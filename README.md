@@ -1,3 +1,5 @@
+弃坑了，shitty code 别看了
+
 # namiko
 
 类 nginx 的基于 epoll I/O 的 web server。
